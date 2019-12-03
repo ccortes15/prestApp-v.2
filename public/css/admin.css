@@ -1,0 +1,21 @@
+nav{
+    width: 80%;
+}
+
+aside{
+    width: 20%;
+    height: 100%;
+    position: absolute;
+    margin-right: 2px solid white;
+    background-color: #026639;
+
+}
+
+section{
+    width: 80%;
+    position: relative;
+}
+
+article{
+    background-color: lightgrey;
+}
